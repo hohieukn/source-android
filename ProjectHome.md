@@ -1,0 +1,1 @@
+Chứa dữ liệu cho các app android
